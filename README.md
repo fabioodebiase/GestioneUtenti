@@ -38,3 +38,7 @@ Il progetto è un'applicazione web per gestire una lista di utenti. Consente di 
   -Entities:
   - `Utente`: Classe per la gestione di un utente.
 ---
+
+
+https://github.com/user-attachments/assets/385a1153-c0aa-40f9-8ceb-c1ae6a3db983
+
