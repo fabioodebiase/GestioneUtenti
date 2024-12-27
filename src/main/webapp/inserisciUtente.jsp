@@ -30,9 +30,6 @@
 
     <input type="submit" value="Inserisci Utente">
 </form>
-<script>
-    let data = document.getElementById("dataNascitaUtente").value;
-    console.log(data)
-</script>
+
 </body>
 </html>
